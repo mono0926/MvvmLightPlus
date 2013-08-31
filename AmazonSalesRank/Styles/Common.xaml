@@ -1,0 +1,17 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Mono.App.AmazonSalesRank.Styles">
+
+
+    <x:String x:Key="AppName">Amazon Sales Rank</x:String>
+    <SolidColorBrush x:Key="FlipViewButtonBackgroundThemeBrush" Color="LightBlue" />
+    <SolidColorBrush x:Key="FlipViewButtonBorderThemeBrush" Color="#59D5D5D5" />
+    <SolidColorBrush x:Key="FlipViewButtonForegroundThemeBrush" Color="#99000000" />
+    <SolidColorBrush x:Key="FlipViewButtonPointerOverBackgroundThemeBrush" Color="#F0D7D7D7" />
+    <SolidColorBrush x:Key="FlipViewButtonPointerOverBorderThemeBrush" Color="#9EC1C1C1" />
+    <SolidColorBrush x:Key="FlipViewButtonPointerOverForegroundThemeBrush" Color="#FF000000" />
+    <SolidColorBrush x:Key="FlipViewButtonPressedBackgroundThemeBrush" Color="#BD292929" />
+    <SolidColorBrush x:Key="FlipViewButtonPressedBorderThemeBrush" Color="#BD292929" />
+    <SolidColorBrush x:Key="FlipViewButtonPressedForegroundThemeBrush" Color="#FFFFFFFF" />
+</ResourceDictionary>
